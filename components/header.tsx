@@ -9,6 +9,10 @@ export default function Header() {
       <p className="text-base md:text-2xl mt-4 text-white font-normal inter-var text-center">
         Leverage the power of AI to audit your smart contracts
       </p>
+      <p color="black">         </p>
+      <p className="text-4xl md:text-4xl lg:text-4xl text-pink-700 font-bold inter-var text-center ">
+         (Golang)
+        </p>
     </WavyBackground>
   );
 }
